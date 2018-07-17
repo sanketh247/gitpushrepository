@@ -22,7 +22,14 @@ public class Newclass {
 		
 		Assert.assertEquals(title,"Sign in to GitHub · GitHub");
 		
+<<<<<<< HEAD
 		System.out.println("Continue to testingjkij.........");
 		System.out.println("Continue to testingjkij.........");
+=======
+		System.out.println("Continue toesting.........");
+		System.out.println("Continue to testing.........");
+		System.out.println("Continue to testing.........");
+
+>>>>>>> branch 'master' of https://github.com/sanketh247/gitpushrepository.git
 	}
 }
