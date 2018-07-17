@@ -24,5 +24,7 @@ public class Newclass {
 		
 		System.out.println("Continue to testing.........");
 		System.out.println("Continue to testing.........");
+		System.out.println("Continue to testing.........");
+
 	}
 }
