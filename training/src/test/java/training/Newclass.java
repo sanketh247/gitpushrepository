@@ -20,13 +20,13 @@ public class Newclass {
 		String title=driver.getTitle();
 		System.out.println(title);
 		
-		Assert.assertEquals(title,"Sign in to GitHub · GitHub");
+		Assert.assertEquals(title,"Sign in to GitHub Â· GitHub");
 		
 <<<<<<< HEAD
 		System.out.println("Continue to testingjkij.........");
 		System.out.println("Continue to testingjkij.........");
 =======
-		System.out.println("Continue toesting.........");
+	
 		System.out.println("Continue to testing.........");
 		System.out.println("Continue to testing.........");
 
